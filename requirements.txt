@@ -1,0 +1,10 @@
+agno
+google-search-results
+python-dotenv
+groq
+googlesearch-python
+pycountry
+google
+google-genai
+google-generativeai
+duckduckgo-search
