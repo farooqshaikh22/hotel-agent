@@ -8,3 +8,5 @@ google
 google-genai
 google-generativeai
 duckduckgo-search
+sqlalchemy
+streamlit
